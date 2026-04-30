@@ -1,0 +1,104 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "rohithbudugarla17@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:rohithbudugarla17@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+353 83 358 1957",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+353833581957"
+      },
+      {
+        "type": "website",
+        "label": "www.rohithbudugarla.com",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://www.rohithbudugarla.com" 
+      }
+    ],
+    "socialItems": [
+      {
+        "title": "LinkedIn",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/budugarlarohithb/"
+      },
+      {
+        "title": "Instagram",
+        "icon": "/images/icon/insta.png",
+        "link": "https://www.instagram.com/ratheesh_rohit_?igsh=Zmh3Zm5hemw4a2N4&utm_source=qr"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Masters in Human Centered AI, 2024 - 2025",
+        "description": "Technological University Dublin, Ireland."
+      },
+      {
+        "title": "Bachelors in Computer Science, 2019-2023",
+        "description": "Sri Eshwar College of Engineering, Coimbatore."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/download.jpg",
+        "rating": 5
+      },
+      {
+        "name": "Rest API",
+        "icon": "/images/home/education-skill/APS.jpg",
+        "rating": 5
+      },
+      {
+        "name": "Docker",
+        "icon": "/images/home/education-skill/images.jpg",
+        "rating": 4
+      },
+      {
+        "name": "Azure",
+        "icon": "/images/home/education-skill/azure.png",
+        "rating": 4
+      },
+      {
+        "name": "SQL",
+        "icon": "/images/home/education-skill/sql.png",
+        "rating": 5
+      },
+      {
+        "name": "Node JS",
+        "icon": "/images/home/education-skill/nodejs.png",
+        "rating": 3
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/ratheesh_rohit_?igsh=Zmh3Zm5hemw4a2N4&utm_source=qr"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/budugarlarohithb/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "rohithbudugarla17@gmail.com",
+        "link": "mailto:rohithbudugarla17@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+353 833581957",
+        "link": "tel:+353 833581957"
+      }
+    ]
+  }
+}

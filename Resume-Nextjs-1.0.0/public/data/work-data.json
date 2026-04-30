@@ -1,0 +1,29 @@
+{
+  "workData": [
+    {
+      "title": "Explainable AI for Pronunciation Feedback",
+      "client": "Master's Capstone Project",
+      "image": "/images/work/XAI.png",
+      "slug": "https://colab.research.google.com/drive/1E-CpwMZtLt-cYA9d3Ft1LBsLPzyWCzzs",
+      "tech": ["Python", "Librosa", "Docker", "SHAP", "CNN"]
+    
+    },
+    {
+      "title": "Gender Classification with Neural Networks",
+      "client": "Deep Learning Project",
+      "image": "/images/work/GCN.png",
+      "slug": "https://colab.research.google.com/drive/10opWtwagcC_9W8S7wwtpwU2UXlMGINAz",
+      "tech": ["Python", "CNN", "TensorFlow", "Azure", "SMOTE"]
+    },
+    {
+      "title": "Detection of Stress by Machine Learning in IT Industry",
+      "client": "Undergraduate Research - IEEE Publication",
+      "image": "/images/work/publication.jpg",
+      "slug": "https://ieeexplore.ieee.org/document/10083884",
+      "tech": ["Python", "Keras", "TensorFlow", "Scikit-learn", "Pandas"],
+      "ieee_citation": "IEEE Xplore",
+      "paper_type": "Conference Paper"
+    }
+   
+  ]
+}
